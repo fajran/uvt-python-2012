@@ -1,0 +1,29 @@
+Fungsi Penghitung Selisih Waktu
+===============================
+
+Buatlah sebuah fungsi yang dapat menghitung selisih di antara dua buah
+waktu yang diketahui dalam jam, menit, dan detik. Selisih waktu juga perlu
+ditulis dalam jam, menit, dan detik.
+
+Masukan adalah berupa sepasang waktu A dan B. Untuk mempermudah, waktu B
+selalu lebih besar dibanding waktu A dan selisihnya tidak akan pernah lebih
+dari 24 jam. Dua pasang waktu ini diberikan dalam bentuk 6 buah variabel yang
+berisi jam, menit, dan detik untuk kedua waktu tersebut.
+
+Keluaran berupa sebuah kalimat seperti contoh di bawah.
+
+Contoh masukan:
+
+    w1_jam = 4
+    w1_menit = 20
+    w1_detik = 10
+    
+    w2_jam = 10
+    w2_menit = 30
+    w2_detik = 20
+
+Contoh keluaran:
+
+    "Selisih waktu adalah 6 jam, 10 menit, dan 10 detik"
+
+
