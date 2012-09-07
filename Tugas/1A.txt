@@ -1,0 +1,22 @@
+Fungsi Pengecek Tahun Kabisat
+=============================
+
+Buatlah sebuah fungsi yang dapat mengecek apakah sebuah tahun adalah tahun
+kabisat atau bukan. Fungsi ini menerima masukan berupa sebuah int dan
+mengeluarkan nilai boolean. Nilai True dikeluarkan jika masukan adalah
+tahun kabisat dan False jika tidak.
+
+Kerangka fungsi
+
+    def tahun_kabisat(tahun):
+        ...
+
+
+Tahun kabisat adalah secara umum adalah tahun yang nilainya habis dibagi 4.
+Namun untuk tahun yang merupakan kelipatan 100 (misalnya tahun 1000), nilai
+tahun juga harus dapat dibagi habis dengan nilai 400.
+
+Contoh tahun:
+- Kabisat: 1600, 2000, 2004, 2008
+- Bukan kabisat: 1700, 1800, 2003, 2007
+
