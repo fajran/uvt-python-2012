@@ -1,0 +1,6 @@
+Coba jalankan
+
+    python -m matematika.uji_fungsi
+
+Perintah di atas akan mengeksekusi modul matematika.uji_fungsi
+
