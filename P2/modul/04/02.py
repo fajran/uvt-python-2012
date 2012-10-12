@@ -1,7 +1,7 @@
-from kalkulator import tambah, kurang, kali, bagi
+from matematika import kalkulator
 
-print tambah(100, 20)
-print kurang(100, 20)
-print kali(100, 20)
-print bagi(100, 20)
+print kalkulator.tambah(100, 20)
+print kalkulator.kurang(100, 20)
+print kalkulator.kali(100, 20)
+print kalkulator.bagi(100, 20)
 

@@ -1,7 +1,9 @@
-from kalkulator import *
+import matematika.kalkulator
 
-print tambah(100, 20)
-print kurang(100, 20)
-print kali(100, 20) # error!
-print bagi(100, 20) # error!
+print matematika.kalkulator.tambah(100, 20)
+print matematika.kalkulator.kurang(100, 20)
+print matematika.kalkulator.kali(100, 20)
+print matematika.kalkulator.bagi(100, 20)
+
+
 

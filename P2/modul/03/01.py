@@ -1,9 +1,8 @@
-import matematika.kalkulator
+import cetak
 
-print matematika.kalkulator.tambah(100, 20)
-print matematika.kalkulator.kurang(100, 20)
-print matematika.kalkulator.kali(100, 20)
-print matematika.kalkulator.bagi(100, 20)
+print 'tulisan ini dicetak dari 01.py'
 
+import cetak
 
+print 'tulisan ini juga dicetak dari 01.py'
 

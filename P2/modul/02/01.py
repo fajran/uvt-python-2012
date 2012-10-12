@@ -1,8 +1,7 @@
-import cetak
+import kalkulator
 
-print 'tulisan ini dicetak dari 01.py'
-
-import cetak
-
-print 'tulisan ini juga dicetak dari 01.py'
+print kalkulator.tambah(100, 20)
+print kalkulator.kurang(100, 20)
+print kalkulator.kali(100, 20)
+print kalkulator.bagi(100, 20)
 

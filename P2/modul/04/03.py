@@ -1,8 +1,5 @@
-from kalkulator import *
-from kalkulator import kali, bagi
+from matematika.kalkulator import tambah, kurang
 
 print tambah(100, 20)
 print kurang(100, 20)
-print kali(100, 20)
-print bagi(100, 20)
 

@@ -1,7 +1,6 @@
-import kalkulator
+import lingkaran
+import persegi
 
-print kalkulator.tambah(100, 20)
-print kalkulator.kurang(100, 20)
-print kalkulator.kali(100, 20)
-print kalkulator.bagi(100, 20)
+print 'Lingkaran: radius=10 luas=%f' % lingkaran.luas(10)
+print 'Persegi: sisi=10 luas=%f' % persegi.luas(10)
 
